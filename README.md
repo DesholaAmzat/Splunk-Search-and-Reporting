@@ -18,6 +18,5 @@ In this lab, I was able to  walk through the installation, configuration, and ba
 
 <h2> Program Walk Through</h2>
 
-<img src="https://i.imgur.com/Re1nd8Z.png" height="88%" width="80%" />
-generic description
-
+<img src="https://i.imgur.com/tEDWgAM.png" height="88%" width="80%" />
+Navigate to the splunk website in your VM and download splunk enterprise
