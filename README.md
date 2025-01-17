@@ -34,7 +34,9 @@ In this project, we will only focus on the application, security, and system log
 <img src="https://i.imgur.com/KTJxTmS.png" height="88%" width="80%" />
 Navigate to the apps button in the top left corner, and click on the drop down to go to search and reporting. Start a new search by entering the asterisk or star key in the search bar and pressing enter. This is to display all the known events on the local system .
 <img src="https://i.imgur.com/K3jpxDq.png" height="88%" width="80%" />
-<img src="https://i.imgur.com/eJZgufC.png" height="88%" width="80%" />
+Next open up the Event Viewer in Windows, click on the Windows log drop-down, right click on security, and then select clear logs. We would like to clear the logs so that we can view the event of logs being cleared within Splunk.
+<img src="https://i.imgur.com/eJZgufC.png" height="88%" width="80%" />Now to add more parameters to our search, you can hover your mouse over any part of a specific event and then click on the “Add to Search” . For this lab, we will be adding the host, source, and event code parameters to the search. This means we are specifying events only on this computer, from the windows event viewer security logs, With an event code of 1102. Notice the message on the event says the audit log was cleared. Now we have an event that shows an action we did ourselves in Splunk. Be sure to copy the search parameters from the search bar and paste it into a notepad, as we will need this specific query later on.
+
 <img src="https://i.imgur.com/HI9qgSE.png" height="88%" width="80%" />
 <img src="https://i.imgur.com/pNCHXuR.png" height="88%" width="80%" />
 <img src="https://i.imgur.com/D0ok6OC.png" height="88%" width="80%" />
