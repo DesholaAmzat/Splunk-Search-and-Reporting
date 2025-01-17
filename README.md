@@ -32,6 +32,6 @@ Navigate to the splunk website in your VM and download splunk enterprise. It can
 <img src="https://i.imgur.com/K3jpxDq.png" height="88%" width="80%" />
 <img src="https://i.imgur.com/eJZgufC.png" height="88%" width="80%" />
 <img src="https://i.imgur.com/HI9qgSE.png" height="88%" width="80%" />
-<img src="https://i.imgur.com/YKzlNLd.png" height="88%" width="80%" />
-<img src="https://i.imgur.com/YKzlNLd.png" height="88%" width="80%" />
-<img src="https://i.imgur.com/YKzlNLd.png" height="88%" width="80%" />
+<img src="https://i.imgur.com/pNCHXuR.png" height="88%" width="80%" />
+<img src="https://i.imgur.com/D0ok6OC.png" height="88%" width="80%" />
+<img src="https://i.imgur.com/bLp8oJx.png" height="88%" width="80%" />
